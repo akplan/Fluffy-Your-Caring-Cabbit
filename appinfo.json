@@ -1,0 +1,86 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "conscou and akplan",
+    "longName": "Fluffy: Your Caring Cabbit",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/fluffyrunning.png",
+                "name": "IMAGES_FLUFFYRUNNING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyboxing.png",
+                "name": "IMAGES_FLUFFYBOXING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/static-pet.png",
+                "name": "IMAGES_STATIC_PET_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyb02.png",
+                "name": "IMAGES_FLUFFYB02_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyinhale.png",
+                "name": "IMAGES_FLUFFYINHALE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyb13.png",
+                "name": "IMAGES_FLUFFYB13_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyb01.png",
+                "name": "IMAGES_FLUFFYB01_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyexhale.png",
+                "name": "IMAGES_FLUFFYEXHALE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/fluffyb12.png",
+                "name": "IMAGES_FLUFFYB12_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Fluffy",
+    "uuid": "2733d219-5b5e-4466-a086-b1c5ac1e56b0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
