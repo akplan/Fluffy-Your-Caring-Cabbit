@@ -140,7 +140,7 @@ menu.on('click', 'down', function(){
       function(callback){
         breathingInhale.show();
         console.log('inhale showing!');
-    },5000);
+    }, 500);
     setTimeout(function(callback){
       breathingExhale.show();
       console.log('exhale showing!');

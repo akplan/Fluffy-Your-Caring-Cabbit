@@ -3,14 +3,13 @@
     "capabilities": [
         ""
     ],
-    "companyName": "conscou and akplan",
-    "longName": "Fluffy: Your Caring Cabbit",
+    "companyName": "constantina.scoullis@rutgers.e",
+    "longName": "Fluffy: Your Healthy Friend",
     "projectType": "pebblejs",
     "resources": {
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
@@ -30,8 +29,8 @@
                 "type": "font"
             },
             {
-                "file": "images/fluffyrunning.png",
-                "name": "IMAGES_FLUFFYRUNNING_PNG",
+                "file": "images/fluffyb02.png",
+                "name": "IMAGES_FLUFFYB02_PNG",
                 "type": "png"
             },
             {
@@ -40,28 +39,13 @@
                 "type": "png"
             },
             {
-                "file": "images/static-pet.png",
-                "name": "IMAGES_STATIC_PET_PNG",
+                "file": "images/fluffyrunning.png",
+                "name": "IMAGES_FLUFFYRUNNING_PNG",
                 "type": "png"
             },
             {
-                "file": "images/fluffyb02.png",
-                "name": "IMAGES_FLUFFYB02_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/fluffyinhale.png",
-                "name": "IMAGES_FLUFFYINHALE_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/fluffyb13.png",
-                "name": "IMAGES_FLUFFYB13_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/fluffyb01.png",
-                "name": "IMAGES_FLUFFYB01_PNG",
+                "file": "images/fluffyb12.png",
+                "name": "IMAGES_FLUFFYB12_PNG",
                 "type": "png"
             },
             {
@@ -70,14 +54,20 @@
                 "type": "png"
             },
             {
-                "file": "images/fluffyb12.png",
-                "name": "IMAGES_FLUFFYB12_PNG",
+                "file": "images/fluffyinhale.png",
+                "name": "IMAGES_FLUFFYINHALE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/static-pet.png",
+                "menuIcon": true,
+                "name": "IMAGES_STATIC_PET_PNG",
                 "type": "png"
             }
         ]
     },
     "shortName": "Fluffy",
-    "uuid": "2733d219-5b5e-4466-a086-b1c5ac1e56b0",
+    "uuid": "776cf76b-0826-4dff-b9a4-931b4d8c7320",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
